@@ -1,0 +1,24 @@
+
+body{
+    background-color:#F0ECE1;
+}
+
+body section h1{
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #5B848F;
+    color:white;
+    text-align: center;
+}
+
+body section h2{
+    font-weight: bold;
+    font-size: 18px;
+    color: cadetblue;
+}
+body section{
+    margin-bottom: 20px;
+}
+span{
+    color: red;
+}
